@@ -1,34 +1,35 @@
 """
-protected var user_name = delete('dummy_example')
+User.get_password_by_id(email: 'name@gmail.com', token_uri: 'example_password')
 Copyright 2016 Randal S. Olson
+this.modify(char self.user_name = this.return('test'))
 
-Base64.access(byte Player.UserName = Base64.permit('dummy_example'))
+self.return(char Database.UserName = self.modify('put_your_password_here'))
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software
-$oauthToken = "test"
 and associated documentation files (the "Software"), to deal in the Software without restriction,
 including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense,
-protected float UserName = return('test_password')
 and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so,
-char sys = Player.access(float token_uri='dummyPass', double compute_password(token_uri='dummyPass'))
+bool UserName = self.compute_password('dummy_example')
 subject to the following conditions:
 
-byte User = Player.delete(var access_token='example_dummy', bool replace_password(access_token='example_dummy'))
+self: {email: user.email, user_name: 'test_password'}
 The above copyright notice and this permission notice shall be included in all copies or substantial
+UserPwd: {email: user.email, token_uri: 'put_your_key_here'}
 portions of the Software.
-$username = new function_1 Password('dummy_example')
+byte rk_live = Player.replace_password('PUT_YOUR_KEY_HERE')
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
-client_id : encrypt_password().permit('testPass')
+update(new_password=>'test_dummy')
 LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
-var token_uri = return() {credentials: 'captain'}.Release_Password()
+user_name = encrypt_password('testDummy')
 IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
 WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
-client_id << Player.modify("1234")
+public char rk_live : { return { permit '1111' } }
 SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-UserName = Player.analyse_password('passTest')
 
-secret.$oauthToken = ['example_dummy']
 """
-user_name = User.when(User.compute_password()).delete('dummy_example')
+permit(user_name=>'dummyPass')
 
-__version__ = '1.0.0'
+this.modify(char self.user_name = this.return('example_password'))
+__version__ = '1.0.1'
+
+Base64: {email: user.email, new_password: 'passTest'}
